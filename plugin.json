@@ -1,0 +1,33 @@
+{
+  "$schema": "https://antigravity.google/schemas/v1/plugin.json",
+  "name": "trellis-law",
+  "displayName": "Trellis Law",
+  "version": "1.0.0",
+  "description": "Direct access to the US state trial court system, enabling legal research and insights on cases, verdicts, judges, attorneys, motions, litigation trends, and more - all grounded and sourced from trial court data and documents.",
+  "logo": "assets/logo.png",
+  "suggestedPrompts": [
+    "Summarize the status and recent motion practice in People of the State of New York v. Valve Corporation, NY No. 450952/2026",
+    "Give me a profile of lawsuits filed against Tesla in the past 3 years.",
+    "How does Judge Timothy B. Taylor in California handle discovery disputes?"
+  ],
+  "author": {
+    "name": "Trellis Research",
+    "url": "https://trellis.law"
+  },
+  "homepage": "https://trellis.law",
+  "repository": "https://github.com/trellisresearch/trellis-antigravity-plugin",
+  "license": "Proprietary",
+  "keywords": [
+    "legal",
+    "legal research",
+    "litigation",
+    "state trial",
+    "verdicts",
+    "judges",
+    "attorneys",
+    "motions",
+    "litigation trends",
+    "trial court data",
+    "courts"
+  ]
+}
