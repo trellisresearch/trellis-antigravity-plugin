@@ -2,7 +2,7 @@
   "$schema": "https://antigravity.google/schemas/v1/plugin.json",
   "name": "trellis-law",
   "displayName": "Trellis Law",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Direct access to the US state trial court system, enabling legal research and insights on cases, verdicts, judges, attorneys, motions, litigation trends, and more - all grounded and sourced from trial court data and documents.",
   "logo": "assets/logo.png",
   "suggestedPrompts": [
@@ -16,7 +16,7 @@
   },
   "homepage": "https://trellis.law",
   "repository": "https://github.com/trellisresearch/trellis-antigravity-plugin",
-  "license": "Proprietary",
+  "license": "Apache-2.0",
   "keywords": [
     "legal",
     "legal research",
